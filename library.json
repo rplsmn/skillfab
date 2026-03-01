@@ -9,6 +9,15 @@
       "core": false,
       "tags": [],
       "triggers": {}
+    },
+    {
+      "id": "maintain-raphaelsimonfr",
+      "type": "skill",
+      "name": "maintain-raphaelsimonfr",
+      "description": "Use when working on raphaelsimon.fr Quarto website - covers multilingual FR/EN structure, blog posts, language switcher, translation banners, hreflang SEO, and content workflows.",
+      "core": false,
+      "tags": [],
+      "triggers": {}
     }
   ]
 }
