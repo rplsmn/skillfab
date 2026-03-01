@@ -28,7 +28,6 @@ raphaelsimon.fr/
 ├── scripts/
 │   └── build-manifest.py    # Pre-render script
 ├── images/                  # Shared images (favicon, profile, console GIF)
-├── llm-docs/                # Design docs (excluded from render)
 ├── en/                      # English content
 │   ├── _metadata.yml        # lang: en
 │   ├── index.qmd            # Homepage (page-layout: custom)
