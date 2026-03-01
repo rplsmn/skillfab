@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "specs": [
+    {
+      "id": "akm",
+      "type": "skill",
+      "name": "AKM",
+      "description": "Use when managing skills during an LLM session — searching, loading, unloading, or checking available skills",
+      "core": false,
+      "tags": [],
+      "triggers": {}
+    }
+  ]
+}
