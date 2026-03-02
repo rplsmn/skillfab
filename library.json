@@ -11,6 +11,15 @@
       "triggers": {}
     },
     {
+      "id": "generate-consumer-skill",
+      "type": "skill",
+      "name": "generate-consumer-skill",
+      "description": "Generate a consumer-facing skill package for LLM agents",
+      "core": false,
+      "tags": [],
+      "triggers": {}
+    },
+    {
       "id": "grouper-consumer",
       "type": "skill",
       "name": "grouper-consumer",
