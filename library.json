@@ -11,6 +11,15 @@
       "triggers": {}
     },
     {
+      "id": "grouper-consumer",
+      "type": "skill",
+      "name": "grouper-consumer",
+      "description": "Use when calling the groupeR R package API ",
+      "core": false,
+      "tags": [],
+      "triggers": {}
+    },
+    {
       "id": "maintain-raphaelsimonfr",
       "type": "skill",
       "name": "maintain-raphaelsimonfr",
