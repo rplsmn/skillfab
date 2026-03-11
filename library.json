@@ -29,6 +29,15 @@
       "triggers": {}
     },
     {
+      "id": "hadvisor-maintainer",
+      "type": "skill",
+      "name": "hadvisor-maintainer",
+      "description": "Use when working on the hadvisor R Shiny application - adding features, fixing bugs, extending to new sectors (MCO, SSR), modifying groupeR integration, or understanding the golem/R6 architecture. Triggers on hadvisor, PMSI, DRG grouping, HAD, MCO, SSR, groupeR, autogrouper, bslib, golem module work.",
+      "core": false,
+      "tags": [],
+      "triggers": {}
+    },
+    {
       "id": "maintain-raphaelsimonfr",
       "type": "skill",
       "name": "maintain-raphaelsimonfr",
