@@ -29,6 +29,15 @@
       "triggers": {}
     },
     {
+      "id": "grouper-maintainer",
+      "type": "skill",
+      "name": "grouper-maintainer",
+      "description": "Use when maintaining, extending, or integrating the groupeR R package — adding FG versions, modifying classification pipelines, fixing decision tree logic, working with the metaprogramming or IR core, adding hospital sectors, running golden tests, or calling groupeR as a dependency from another R project. Triggers on groupeR, autogrouper, GHM, GHS, GME, GMT, GHPC, PMSI, DRG grouping, MCO, SMR, HAD, referentiels, ATIH, sysdata.rda, decision tree, CASE WHEN, rlang expr, build_grouper, translate_tests, group_tree.",
+      "core": false,
+      "tags": [],
+      "triggers": {}
+    },
+    {
       "id": "hadvisor-maintainer",
       "type": "skill",
       "name": "hadvisor-maintainer",
